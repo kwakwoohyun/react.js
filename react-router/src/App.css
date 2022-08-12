@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  background-color: blueviolet;
+}
+
+.navM {
+  margin: 10px;
+}
