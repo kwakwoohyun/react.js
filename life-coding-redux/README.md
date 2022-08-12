@@ -1,10 +1,10 @@
-### src/withOutReduxComponent
+## src/withOutReduxComponent
 
-Redux를 사용하지 않은 일반 컴포넌트
+👉 Redux를 사용하지 않은 일반 컴포넌트
 
-### src/withReduxComponent
+## src/withReduxComponent
 
-Redux를 사용한 컴포넌트
+👉 Redux를 사용한 컴포넌트
 
 # Getting Started with Create React App
 
